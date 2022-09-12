@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-/* Demo test class created to demonstrate working with different GIT commands */
+/* Demo test class created to demonstrate working with different GIT commands and integrating with Eclipse*/
 public class DemoTest {
 
 	@Test()
