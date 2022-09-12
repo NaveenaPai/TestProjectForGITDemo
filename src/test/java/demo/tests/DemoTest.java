@@ -13,7 +13,7 @@ public class DemoTest {
 		String filepath = System.getProperty("user.dir") + "/src/test/java/driver/chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver", filepath);
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.google.com/");
+		driver.get("https://github.com/");
 		driver.quit();
 
 	}
